@@ -1,0 +1,14 @@
+__pyhache__/
+.ipynb_checkpoints/
+.vscode/
+.garbage/
+build/
+_build/
+old/
+_old/
+logs/
+tmp/
+data/input
+
+*.log
+.env
